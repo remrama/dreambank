@@ -17,7 +17,7 @@ __all__ = [
 
 
 repository = pooch.create(
-    base_url="https://github.com/dxelab/dreambank/raw/{version}/datasets/",
+    base_url="https://github.com/remrama/dreambank/raw/{version}/datasets/",
     path=pooch.os_cache("dreambank"),
     version=f"v{installed_version('dreambank')}",
     version_dev="dev",

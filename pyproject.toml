@@ -36,7 +36,7 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/dxelab/dreambank"
+Homepage = "https://github.com/remrama/dreambank"
 
 [project.optional-dependencies]
 docs = [

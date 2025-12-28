@@ -14,7 +14,7 @@ The |dreambank| package version corresponds to versions of the datasets. To get 
 
 .. code-block:: shell
 
-   pip install --force-reinstall dreambank==1.0
+   pip install dreambank
 
 
 Check your current version of |dreambank| in a Python session with ``print(dreambank.__version__)``.

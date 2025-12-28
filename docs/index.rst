@@ -8,16 +8,16 @@
    :target: https://badge.fury.io/py/dreambank
    :alt: PyPI
 
-.. image:: https://img.shields.io/github/license/dxelab/dreambank.svg
-   :target: https://github.com/dxelab/dreambank/blob/master/LICENSE
+.. image:: https://img.shields.io/github/license/remrama/dreambank.svg
+   :target: https://github.com/remrama/dreambank/blob/master/LICENSE
    :alt: License
 
 .. image:: https://pepy.tech/badge/dreambank/month
    :target: https://pepy.tech/badge/dreambank/month
    :alt: Downloads
 
-.. image:: https://github.com/dxelab/dreambank/actions/workflows/docs.yml/badge.svg
-  :target: https://github.com/dxelab/dreambank/actions
+.. image:: https://github.com/remrama/dreambank/actions/workflows/docs.yml/badge.svg
+  :target: https://github.com/remrama/dreambank/actions
   :alt: Docs test
 
 

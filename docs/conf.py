@@ -88,7 +88,7 @@ html_additional_pages = {}
 # I think this is just for showing source?
 html_context = {
     # "github_url": "https://github.com",
-    "github_user": "DxELab",
+    "github_user": "remrama",
     "github_repo": "dreambank",
     "github_version": "main",
     "doc_path": "docs",
@@ -101,7 +101,7 @@ html_context = {
 html_theme_options = {
     "navigation_with_keys": False,
     "external_links": [
-        {"name": "Releases", "url": "https://github.com/DxELab/dreambank/releases"},
+        {"name": "Releases", "url": "https://github.com/remrama/dreambank/releases"},
     ],
     "header_links_before_dropdown": 4,
     "navbar_start": ["navbar-logo"],  # "version-switcher"
@@ -134,7 +134,7 @@ html_theme_options = {
     "icon_links": [
         {
             "name": "dreambank on GitHub",
-            "url": "https://github.com/DxELab/dreambank",
+            "url": "https://github.com/remrama/dreambank",
             "icon": "fa-brands fa-square-github",
             "type": "fontawesome",
         },

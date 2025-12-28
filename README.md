@@ -18,8 +18,3 @@ Goes beyond other projects by
 1. More careful extraction of metadata from dream reports (e.g., gets dates from individual dream reports when present).
 2. Grabs additional info about each dataset (including second level of detail if present).
 3. Includes more (some are missing in other repos)
-
-
-## Versioning
-
-Uses semantic versioning, where major versions are when dataset changes (not expected much, if at all, maybe cleaning up or something) and minor changes are when code changes and does not impact dataset.
